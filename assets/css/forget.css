@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+#reset{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    border-radius:  12px 0px 0px 12px;
+	background: linear-gradient(to right,rgb(100, 189, 193), white  5vw) ;
+}

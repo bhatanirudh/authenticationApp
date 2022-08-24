@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+#center{
+    text-align: center;
+}
+
+#sec{
+    background-color:rgb(252, 237, 237);
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+#form {
+    text-decoration:double;
+    display: grid;
+    place-items: center;
+    color: rgb(29, 31, 31);
+    transform: scale(1.5,1.5);
+}

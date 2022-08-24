@@ -1,0 +1,21 @@
+#a{
+    position: fixed;
+    right: 5vw;
+    top: 2vh;
+}
+a{  
+    text-decoration: none;
+    color: white;
+    padding: 1vh;
+    border-radius: 1vh;
+    font-family:sans-serif;
+    font-weight: bolder;
+    background-color: rgb(122, 186, 188);
+}
+#header{
+    background-color:rgb(252, 237, 237);
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
