@@ -4,6 +4,7 @@ This application serves as a complete authentication system which can be used as
 application
 
 It implements environment variables, so no secret ids or passwords ae visible in code.
+The password stored in the db is encrypted
 Passport stratergy local as well as aouth2(for sign in through google) are implemented.
 Database used is mongo db (mongo atlas for online DB),
 It implements node mailer for forget password functionality.
